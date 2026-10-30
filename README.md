@@ -1,1 +1,1 @@
-# smart_automatic_dustbin.ino
+# smart_automatic_dustbin
